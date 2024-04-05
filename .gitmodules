@@ -1,0 +1,4 @@
+
+[submodule "src/fr5_gamepad/src"]
+	path = src/fr5_gamepad/src
+	url = https://github.com/dian-hn1/robot-sdk
